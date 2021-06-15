@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Coder460
 - 👀 I’m interested in making a new app
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me- sjoymondal189@gmail.com
 
 <!---
